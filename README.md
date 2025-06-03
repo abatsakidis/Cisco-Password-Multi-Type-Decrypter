@@ -37,7 +37,7 @@ enable secret 9 $9$examplehash
 ```
 ## 🖼️ Screenshots
 
-![Load and Hide Message](screenshots/screen.jpg)
+![App Screenshot](screenshot/screen.jpg)
 
 ## 🛡 Notes
 - Type 7 is the only reversible encoding. All others are cryptographic hashes.
